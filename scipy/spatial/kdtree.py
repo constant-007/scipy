@@ -4,6 +4,7 @@
 
 from scipy._lib.deprecation import _sub_module_deprecation
 
+# from ._kdtree import KDTree, Rectangle, distance_matrix, minkowski_distance, \
 
 __all__ = [  # noqa: F822
     'KDTree',
